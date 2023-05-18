@@ -1,4 +1,4 @@
-package br.com.finyoy.msfinanceiro;
+package br.com.finyou.msfinanceiro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
